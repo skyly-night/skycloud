@@ -26,6 +26,9 @@
     <loc>/posts/my-first-blogpost/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/posts/test-blogpost/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
   </url>
 </urlset>
